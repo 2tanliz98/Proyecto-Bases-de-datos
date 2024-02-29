@@ -1,0 +1,6 @@
+Propietario_id: 2
+Numero de falta: 2
+Fecha: 08-FEB-21
+Puntos negativos: 10
+Evidencia: evidencia
+Descripción de la falta: descripcion
